@@ -1,0 +1,15 @@
+[package]
+name = "rust-apisets"
+version = "0.1.0"
+authors = ["Eugene Talagrand <crates@talagrand.org>"]
+edition = "2021"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/talagrand/rust-apisets"
+readme = "README.md"
+description = "Link Windows Rust binaries to customizable APISets"
+keywords = ["apiset", "linkage", "linking", "dll", "windows"]
+categories = ["api-bindings", "os::windows-apis"]
+
+[dependencies]
+windows-registry = "0.3.0"
+

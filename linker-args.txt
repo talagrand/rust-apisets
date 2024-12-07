@@ -1,0 +1,7 @@
+/nodefaultlib
+onecore_apiset.lib
+ntdll.lib
+propsys.lib
+libvcruntime.lib
+libcmt.lib
+libucrt.lib
